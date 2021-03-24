@@ -42,9 +42,7 @@ Here's a walkthrough of implemented user stories:
 <img src = "http://g.recordit.co/oYqa0vNnS1.gif" width = 250> <br>
 ^ shows what happens when you win
 
-
-"http://g.recordit.co/inHT3ENSYA.gif"
-
+<img src = "http://g.recordit.co/inHT3ENSYA.gif" width = 250> <br>
 ^shows pattern changes and you have 3 lives
 
 
